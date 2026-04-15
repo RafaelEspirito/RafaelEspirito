@@ -45,3 +45,36 @@ Aqui estão alguns dos meus projetos que melhor representam minha evolução:
 ---
 
 ## 📈 Minha Jornada de Aprendizado
+## 🎓 Formação
+- **Curso:** Desenvolvimento Full-Stack
+- **Instituição:** Estácio
+- **Status:** Em formação
+- **Foco atual:** Front-end
+- **Próximo foco:** Java e Back-end
+---
+## 📊 Estatísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)](https://github.com/SEU_USUARIO)
+---
+## 🤝 Conecte-se comigo
+Estou disponível para conversar sobre desenvolvimento, dúvidas técnicas ou oportunidades colaborativas:
+- 💼 **LinkedIn:** [seu-linkedin](https://linkedin.com/in/seu-usuario)
+- 📧 **Email:** seu.email@email.com
+- 💻 **GitHub:** [seu-github](https://github.com/seu-usuario)
+---
+## 💡 O que esperar deste GitHub
+Aqui você encontrará:
+- ✅ Projetos de aprendizado bem organizados
+- ✅ Código limpo e bem documentado
+- ✅ Evolução de iniciante para júnior
+- ✅ Minha transição de front-end para Java
+- ✅ Exemplos de boas práticas
+---
+## 🚀 Próximas Metas
+- [ ] Consolidar base de Java e POO
+- [ ] Criar primeira API com Spring Boot
+- [ ] Aprender banco de dados relacional
+- [ ] Construir projeto full-stack integrado
+- [ ] Começar candidaturas para vagas júnior
+---
+⭐ **Se você gostou de algum projeto, considere dar uma estrela!**
+*Última atualização: Abril de 2026*
