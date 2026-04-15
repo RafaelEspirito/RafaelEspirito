@@ -59,7 +59,7 @@ Aqui estão alguns dos meus projetos que melhor representam minha evolução:
 Estou disponível para conversar sobre desenvolvimento, dúvidas técnicas ou oportunidades colaborativas:
 - 💼 **LinkedIn:** [Rafael Espirito](https://linkedin.com/in/rafael-espirito)
 - 📧 **Email:** rafaelespirito1569@pm.me
-- 💻 **GitHub:** [Rafael Espirito](https://github.com/RafaelEspirito)
+- 💻 **GitHub:** [https://github.com/RafaelEspirito](https://github.com/RafaelEspirito)
 ---
 ## 💡 O que esperar deste GitHub
 Aqui você encontrará:
