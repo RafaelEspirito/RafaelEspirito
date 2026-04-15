@@ -53,7 +53,7 @@ Aqui estão alguns dos meus projetos que melhor representam minha evolução:
 - **Próximo foco:** Java e Back-end
 ---
 ## 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)](https://github.com/SEU_USUARIO)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelEspirito&show_icons=true&theme=dracula)](https://github.com/RafaelEspirito)
 ---
 ## 🤝 Conecte-se comigo
 Estou disponível para conversar sobre desenvolvimento, dúvidas técnicas ou oportunidades colaborativas:
