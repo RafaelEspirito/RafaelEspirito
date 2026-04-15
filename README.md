@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub
 
-<!--
-**RafaelEspirito/RafaelEspirito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento Full-Stack na Estácio**, atualmente construindo minha base com **front-end**, mas direcionando minha carreira para **Java** e **desenvolvimento back-end**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Sobre mim
+
+- 🎓 **Estudante** de Desenvolvimento Full-Stack na Estácio
+- 🌐 **Atualmente focado** em front-end (HTML, CSS, JavaScript)
+- ☕ **Objetivo profissional** é aprofundar em Java e atuar com back-end
+- 📚 Sempre estudando e construindo projetos práticos
+- 🤝 Aberto para colaborações e feedback
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Atualmente estudando
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Em desenvolvimento
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-FF6B6B?style=flat-square&logo=api&logoColor=white)
+
+---
+
+## 📂 Meus Projetos em Destaque
+
+Aqui estão alguns dos meus projetos que melhor representam minha evolução:
+
+| Projeto | Descrição | Tecnologias | Repositório |
+|---------|-----------|-------------|------------|
+| 🏦 **Sistema Bancário** | CRUD com lógica de negócio | Java, POO | Em breve |
+| 📋 **API de Tarefas** | Primeira API REST | Java, Spring Boot, H2 | Em breve |
+| 💰 **Controle Financeiro** | App full-stack | Front-end + Java | Em breve |
+| 🎨 **Portfólio** | Landing page pessoal | HTML, CSS, JavaScript | Em breve |
+
+---
+
+## 📈 Minha Jornada de Aprendizado
