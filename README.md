@@ -32,12 +32,11 @@ Sou estudante de **Desenvolvimento Full-Stack na Estácio**, construindo minha b
 
 ## 📊 Estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelEspirito&show_icons=true&theme=dracula)](https://github.com/RafaelEspirito)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEspirito&layout=compact&theme=dracula)](https://github.com/RafaelEspirito)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelEspirito&show_icons=true&theme=dracula&cache_seconds=1800)](https://github.com/RafaelEspirito)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEspirito&layout=compact&theme=dracula&cache_seconds=1800)](https://github.com/RafaelEspirito)
+
+
 ---
 
 ## 💡 O que esperar deste GitHub
